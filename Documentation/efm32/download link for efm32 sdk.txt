@@ -1,0 +1,3 @@
+Please download the SDK of EFM32 over below link:
+
+http://www.silabs.com/products/mcu/Pages/simplicity-studio.aspx
